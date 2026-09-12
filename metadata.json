@@ -1,0 +1,6 @@
+{
+  "name": "Bengaluru Events",
+  "description": "Find, explore, and book marathons, hackathons, and community activities across Bengaluru with Google Maps grounding, in-app registrations, and organizer analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
